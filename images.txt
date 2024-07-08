@@ -4,6 +4,8 @@ nginx
 mysql
 mcr.microsoft.com/dotnet/sdk:8.0
 mcr.microsoft.com/dotnet/sdk:6.0
+portainer/portainer-ce
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
