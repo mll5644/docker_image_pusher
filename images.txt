@@ -10,6 +10,7 @@ nginx
 mysql
 redis
 mongo
+mongo-express
 
 node
 
